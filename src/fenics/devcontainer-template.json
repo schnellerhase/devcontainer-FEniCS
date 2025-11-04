@@ -11,6 +11,7 @@
             "description": "FEniCS version - tag of dolfinx/dolfinx to use:",
             "proposals": [
                 "nightly",
+                "v0.10.0",
                 "v0.9.0r1",
                 "v0.8.0"
             ],
