@@ -1,4 +1,4 @@
 {
 	"name": "FEniCS devcontainer",
-	"image": "docker.io/dolfinx/dolfinx:${templateOption:tag}"
+	"image": "dolfinx/dolfinx:${templateOption:tag}"
 }
